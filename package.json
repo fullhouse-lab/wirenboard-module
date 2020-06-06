@@ -1,0 +1,29 @@
+{
+  "name": "wirenboard-module",
+  "version": "1.0.0",
+  "description": "Command to quick install modules for wirenboard",
+  "main": "./bin/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "wirenboard-module": "./bin/index.js"
+  },
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module/issues/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "wirenboard-module-ebus": "^1.3.0",
+    "wirenboard-module-greenhouse": "^1.7.0"
+  }
+}
