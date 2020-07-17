@@ -26,6 +26,9 @@ Available modules
 ```
 wirenboard-module ebus
 wirenboard-module greenhouse
+wirenboard-module zigbee
+wirenboard-module sms
+wirenboard-module email
 ```
 
 ----

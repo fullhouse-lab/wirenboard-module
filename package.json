@@ -24,6 +24,9 @@
   "license": "ISC",
   "dependencies": {
     "wirenboard-module-ebus": "^1.3.0",
-    "wirenboard-module-greenhouse": "^1.7.0"
+    "wirenboard-module-email": "^1.1.0",
+    "wirenboard-module-greenhouse": "^1.7.0",
+    "wirenboard-module-sms": "^1.1.0",
+    "wirenboard-module-zigbee": "^1.4.0"
   }
 }
