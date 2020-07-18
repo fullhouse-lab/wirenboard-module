@@ -9,14 +9,18 @@ const RULES_DIR  = '/etc/wb-rules'
 
 const MODULES = [
   'ebus',
-  'greenhouse'
+  'greenhouse',
+  'zigbee',
+  'email',
+  'sms',
 ]
 
-const HELP = `
-Available commands:
-${MODULE_NAME} ebus
-${MODULE_NAME} greenhouse
-`
+let HELP = `
+Available commands:`
+MODULES.forEach(name => {
+  HELP += `${MODULE_NAME} ${name} \n`
+})
+HELP += '\n'
 
 const path = require('path')
 const fs = require('fs')
