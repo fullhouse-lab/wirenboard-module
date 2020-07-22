@@ -13,6 +13,7 @@ const MODULES = [
   'zigbee',
   'email',
   'sms',
+  'ledstrip',
 ]
 
 let HELP = `
