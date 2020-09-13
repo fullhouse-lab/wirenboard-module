@@ -14,6 +14,10 @@ const MODULES = [
   'email',
   'sms',
   'ledstrip',
+  'guard',
+  'gas',
+  'flood',
+  'terneo',
 ]
 
 let HELP = `

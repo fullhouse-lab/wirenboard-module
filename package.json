@@ -1,6 +1,6 @@
 {
   "name": "wirenboard-module",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "Command to quick install modules for wirenboard",
   "main": "./bin/index.js",
   "preferGlobal": true,
@@ -25,9 +25,13 @@
   "dependencies": {
     "wirenboard-module-ebus": "^1.3.0",
     "wirenboard-module-email": "^1.1.0",
+    "wirenboard-module-flood": "^1.5.0",
+    "wirenboard-module-gas": "^1.10.0",
     "wirenboard-module-greenhouse": "^1.7.0",
+    "wirenboard-module-guard": "^1.6.0",
     "wirenboard-module-ledstrip": "^1.3.0",
     "wirenboard-module-sms": "^1.1.0",
+    "wirenboard-module-terneo": "^1.5.0",
     "wirenboard-module-zigbee": "^1.4.0"
   }
 }

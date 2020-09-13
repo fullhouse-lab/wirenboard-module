@@ -30,6 +30,10 @@ wirenboard-module zigbee
 wirenboard-module ledstrip
 wirenboard-module sms
 wirenboard-module email
+wirenboard-module guard
+wirenboard-module gas
+wirenboard-module flood
+wirenboard-module terneo
 ```
 
 ----
