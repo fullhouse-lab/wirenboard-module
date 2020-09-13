@@ -32,6 +32,8 @@ wirenboard-module sms
 wirenboard-module email
 wirenboard-module guard
 wirenboard-module gas
+wirenboard-module smoke
+wirenboard-module siren
 wirenboard-module flood
 wirenboard-module terneo
 ```

@@ -16,6 +16,8 @@ const MODULES = [
   'ledstrip',
   'guard',
   'gas',
+  'smoke',
+  'siren',
   'flood',
   'terneo',
 ]
