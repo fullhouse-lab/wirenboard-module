@@ -9,6 +9,7 @@ const RULES_DIR  = '/etc/wb-rules'
 
 const MODULES = [
   'ebus',
+  'heater',
   'greenhouse',
   'zigbee',
   'email',
@@ -17,6 +18,7 @@ const MODULES = [
   'guard',
   'gas',
   'smoke',
+  'smoke-adc',
   'siren',
   'flood',
   'terneo',

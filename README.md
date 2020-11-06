@@ -25,6 +25,7 @@ wirenboard-module MODULE_NAME
 Available modules
 ```
 wirenboard-module ebus
+wirenboard-module heater
 wirenboard-module greenhouse
 wirenboard-module zigbee
 wirenboard-module ledstrip
@@ -33,6 +34,7 @@ wirenboard-module email
 wirenboard-module guard
 wirenboard-module gas
 wirenboard-module smoke
+wirenboard-module smoke-adc
 wirenboard-module siren
 wirenboard-module flood
 wirenboard-module terneo
